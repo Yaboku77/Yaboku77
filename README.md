@@ -6,37 +6,39 @@
   </a>
 </p>
 
-I'm a Cyber Security student passionate about ethical hacking, malware analysis, and building security tools. I enjoy exploring the world of offensive security and creating projects to better understand digital threats and defenses.
+I'm an aspiring developer with a strong interest in Cyber Security, App Development, and Full-Stack Web Development. I enjoy building seamless, ad-free user experiences, creating streaming platforms, and exploring the world of offensive security.
 
 ---
 
 ## 👨‍💻 What I'm Focused On
 
-* **🌱 Learning:** Advanced penetration testing techniques and malware development for educational purposes.
-* **🐍 Building:** Developing and improving security tools, primarily using Python.
-* **🔐 Exploring:** Deep diving into reverse engineering, cryptography, and network security.
-* **🤝 Collaborating:** Actively looking to connect and contribute to open-source security projects.
+* **📱 App Development:** Building clean, high-performance mobile applications using Flutter and Dart.
+* **🌐 Web Development:** Creating responsive, database-free streaming platforms and API-integrated websites using the TNT stack (TypeScript, Next.js, Tailwind) and PHP.
+* **🔐 Cyber Security:** Continuing to explore ethical hacking, malware analysis, and network security.
+* **🤝 Open Source:** Collaborating on ad-free, open-source community tools and media players.
 
 ---
 
-## 🛠️ My Skills & Interests
+## 🛠️ My Skills & Tech Stack
 
-* **Languages:** Python
-* **Core Interests:** Cyber Security, Ethical Hacking, Malware Analysis, Penetration Testing, Digital Forensics.
-
----
-
-## 🚀 My Projects
-
-Here are a few projects I've been working on. You can find more in my repositories!
-
-| Project | Description |
-| :--- | :--- |
-| **🛡️ Malware Development** | A collection of various malware created strictly for educational insight and defense analysis. |
-| **🔧 Ethical Hacking Tools** | A repository of custom scripts and tools built for ethical hacking exercises. |
-| **🔑 Python Keylogger** | A simple keylogger built with Python for educational purposes to understand keystroke dynamics. |
-| **🔐 Password Generator** | A straightforward, effective password generator built in Python for secure credential management. |
+* **Languages:** Dart, TypeScript, JavaScript, PHP, Python
+* **Frameworks & Tools:** Flutter, Next.js 13, Tailwind CSS, Git
+* **Interests:** Mobile/Web Development, UI/UX, Ethical Hacking, Malware Analysis
 
 ---
 
-*Feel free to explore my repositories and connect with me!*
+## 🚀 My GitHub Projects
+
+Here are the main projects currently hosted on my GitHub. Feel free to check out the repositories for source code and contributions!
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎵 [RJ-Music](https://github.com/Yaboku77/RJ-Music)** | An open-source, ad-free music player. Streams unlimited high-quality audio from YouTube Music with offline downloads, background playback, and real-time Jam Sessions. | Dart, Flutter |
+| **📺 [Animetsu](https://github.com/Yaboku77/anime-site)** | A high-performance, ad-free anime streaming platform built for smooth, modern web experiences. | TypeScript, Next.js 13, Tailwind |
+| **🎬 [Anikatsu](https://github.com/Yaboku77/anikatsu)** | A lightweight, database-free anime streaming website featuring multi-resolution support (1080p to 360p) and a responsive UI. | PHP |
+| **🗂️ [AniZone](https://github.com/Yaboku77/anizone)** | An anime discovery platform inspired by MyAnimeList, fetching real-time data using the Jikan API. | JavaScript |
+| **🌍 [Anime World](https://github.com/Yaboku77/anime-place)** | A fully responsive web application allowing users to stream both recently released anime and retro classics. | Web / UI |
+
+---
+
+*Feel free to explore my repositories, fork my projects, and connect with me!*
