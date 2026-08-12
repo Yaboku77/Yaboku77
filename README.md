@@ -12,7 +12,7 @@ I'm an aspiring developer with a strong interest in Cyber Security, App Developm
 
 ## 👨‍💻 What I'm Focused On
 
-* **📱 App Development:** Building clean, high-performance mobile applications using Flutter and Dart.
+* **📱 App Development:** Building clean, high-performance mobile applications using React Native and Flutter.
 * **🌐 Web Development:** Creating responsive, database-free streaming platforms and API-integrated websites using the TNT stack (TypeScript, Next.js, Tailwind) and PHP.
 * **🔐 Cyber Security:** Continuing to explore ethical hacking, malware analysis, and network security.
 * **🤝 Open Source:** Collaborating on ad-free, open-source community tools and media players.
@@ -22,7 +22,7 @@ I'm an aspiring developer with a strong interest in Cyber Security, App Developm
 ## 🛠️ My Skills & Tech Stack
 
 * **Languages:** Dart, TypeScript, JavaScript, PHP, Python
-* **Frameworks & Tools:** Flutter, Next.js 13, Tailwind CSS, Git
+* **Frameworks & Tools:** React Native, Expo, Flutter, Next.js 13, Tailwind CSS, Git
 * **Interests:** Mobile/Web Development, UI/UX, Ethical Hacking, Malware Analysis
 
 ---
@@ -33,6 +33,7 @@ Here are the main projects currently hosted on my GitHub. Feel free to check out
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **🏴‍☠️ [Kaizoku](https://github.com/Yaboku77/kaizoku)** | A premium anime streaming mobile app featuring Picture-in-Picture (PiP), background audio, real-time scraping, and cloud-synced watchlists. | React Native, Expo, Firebase |
 | **🎵 [RJ-Music](https://github.com/Yaboku77/RJ-Music)** | An open-source, ad-free music player. Streams unlimited high-quality audio from YouTube Music with offline downloads, background playback, and real-time Jam Sessions. | Dart, Flutter |
 | **📺 [Animetsu](https://github.com/Yaboku77/anime-site)** | A high-performance, ad-free anime streaming platform built for smooth, modern web experiences. | TypeScript, Next.js 13, Tailwind |
 | **🎬 [Anikatsu](https://github.com/Yaboku77/anikatsu)** | A lightweight, database-free anime streaming website featuring multi-resolution support (1080p to 360p) and a responsive UI. | PHP |
